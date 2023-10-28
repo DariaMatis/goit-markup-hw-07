@@ -497,6 +497,7 @@ form > p {
 }
 .section-header {
   text-align: center;
+  justify-content: center;
   font-size: 28px;
   font-weight: 700;
   letter-spacing: 0.84px;
